@@ -1,3 +1,5 @@
+#! /usr/bin/env ruby
+#
 # コマンドラインで指定した全てのファイルの各行を1行づつ画面に表示
 
 ARGV.each do |path|
